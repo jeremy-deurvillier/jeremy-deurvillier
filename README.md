@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fddb9e5ce9f4ca58ae2ebd?variant=dark&roadmaps=frontend%2Cbackend)](https://roadmap.sh)
 
 <!--
