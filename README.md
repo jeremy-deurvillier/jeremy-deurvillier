@@ -1,4 +1,4 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fddb9e5ce9f4ca58ae2ebd?variant=dark&roadmaps=frontend%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fddb9e5ce9f4ca58ae2ebd?variant=dark)](https://roadmap.sh)
 
 <!--
 **jeremy-deurvillier/jeremy-deurvillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
